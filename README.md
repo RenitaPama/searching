@@ -1,8 +1,9 @@
 #WordSearch 
-This project is the beginning of a larger search engine project. Currently, the two files included in this repo just 
-a) naively search specified files for a single search term 
-b)generate HTML files from a few popular websites (i.e. something to be searched). 
 
+It is just an intial part of a full search engine. Files are included that are adjusted and related to search engine results. a) Specific to search engine search terms.
+b) It can also automatically create HTML bots for renowned websites
+
+2nd edit done by RenitaPama - Website content editor at https://frozenpeafund.com
 Many more stages and a lot more functionality to come! 
 
 ###Contents
